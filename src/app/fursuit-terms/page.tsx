@@ -62,6 +62,73 @@ export default function FursuitTerms() {
                  "I - Minors can purchase \"Premade\" Fursuits and Kigurumis from us, but we are not responsible for future adjustments needed in size or fit.",
                  "II - If we believe the client has malicious or controversial intentions with our product, we retain the right to refuse service."
                ]
+             },
+             {
+               title: "1.3 - Studio Rights and Duties",
+               content: "Dragon Shore Studio has the right to post photos, videos and illustrations of the product created for the client, for promotional purposes only. Our directive is to produce something that pleases the client and has quality and resistance, delivering what you deserve!"
+             },
+             {
+               title: "1.4 - Client Rights and Duties",
+               subsections: [
+                 {
+                   title: "1.4.a) Right of Withdrawal",
+                   content: "If the Client withdraws from their order and production has not started and materials have not been acquired, the client has the right to withdraw and receive a full refund of the deposit paid when acquiring their \"slot\".",
+                   list: [
+                     "I - If production has started, the amount to be returned to the client will be linked to the withdrawal progress and the financial amount invested in the product up to that moment.",
+                     "II - Due to the nature of the Product being Customized specifically for the client, Article 49 of the Consumer Protection Code (Known as the Right of Regret Law) does not apply for regret purposes. This clause is a courtesy from the studio to the client."
+                   ]
+                 },
+                 {
+                   title: "1.4.b) Product Updates",
+                   content: "The Client should be updated at each relevant stage of the product, not exceeding 30 days from the last update.",
+                   list: [
+                     "I - The Client MUST NOT insist on daily or frequent updates that interfere with product production, characterizing disrespect and may lead to order cancellation.",
+                     "II - The Client has the right to an update if there is any unforeseen circumstance by the production team, and may demand an update if the deadline exceeds 30 days."
+                   ]
+                 },
+                 {
+                   title: "1.4.c) Changes",
+                   content: "The Client has the right to request MINOR changes in product details free of extra charge. Minor changes are characterized as: Positioning of already agreed details and other minor details. If the client wants MAJOR changes due to regret or change of plans, the cost in material and hour/work will be charged extra.",
+                   list: [
+                     "I - The Client may, on their own, alter their product after it is delivered and finished.",
+                     "II - The Client must not alter by adding things that would be characterized as problematic such as symbols of intolerance, racism, homophobia.",
+                     "III - If the client causes damage to their product, they may contact us to request repair at extra cost, but we will not repair parts that we did not produce."
+                   ]
+                 },
+                 {
+                   title: "1.4.d) Shipping",
+                   content: "The cost of freight and shipping of the custom product will be entirely the responsibility of the client and the packaging and shipping material is the responsibility of the Studio.",
+                   list: [
+                     "I - If product damage occurs during shipping, the studio will not be responsible if this damage was caused by the client's chosen shipping method.",
+                     "II - We are not responsible for product loss caused by the client's shipping method.",
+                     "III - Delivery time and delivery attempts are the client's responsibilities with the client's chosen shipping method."
+                   ]
+                 },
+                 {
+                   title: "1.4.e) Manufacturing Defects",
+                   content: "If the client finds manufacturing defects that went unnoticed by our Q.A., the studio is responsible for repairing such defect free of charge, as well as shipping and re-shipping to the client if relevant. The Client has 3 consecutive days from receipt to inform us of the manufacturing defect.",
+                   list: [
+                     "I - We are not responsible for defects caused by the client, or defects found after the 3 consecutive days determined above."
+                   ]
+                 },
+                 {
+                   title: "1.4.f) Gifts",
+                   content: "If the client is eligible to receive a gift from the studio, this gift is not refundable or exchangeable. The gift is a bonus from the studio to the client, and is not part of the purchased product."
+                 },
+                 {
+                   title: "1.4.g) Credits",
+                   content: "The Studio must be credited in the production of your product, even if it is used for personal, recreational or profitable purposes, the studio must be credited in its production whenever possible:",
+                   list: [
+                     "I - An example would be to tag us on social media for the production and realization of your product, either by describing it in the post made or in the biography.",
+                     "II - Another example would be to verbally confirm our authorship and service provision in relation to your product.",
+                     "III - Even if the Client alters the product so that it is no longer recognizable as our product, they must still credit us as producers of the base of their product."
+                   ]
+                 }
+               ]
+             },
+             {
+               title: "1.5 - Measurements for Production",
+               content: "We will follow EXACTLY the measurements that the client sends us. We will correctly instruct how to take these measurements and we will make sure that everything is produced and documented in production that was done correctly. We are not responsible for wrong measurements provided."
              }
            ]
          },
@@ -87,9 +154,11 @@ export default function FursuitTerms() {
                ],
                paymentMethodsTitle: "Accepted payment methods:",
                paymentMethods: [
-                 "PIX",
-                 "Bank Transfer",
-                 "PayPal (Conversion fee at client's expense)"
+                 "- Credit or Debit Card (Payment in up to 12 installments, interest on the customer's account)",
+                 "- PIX",
+                 "- Bank Transfer",
+                 "- PayPal (Conversion fee at client's expense)",
+                 "- Wise (Conversion fee at client's expense)"
                ]
              }
            ]
@@ -162,6 +231,73 @@ export default function FursuitTerms() {
                  "I - Menores de idade podem adquirir Fursuits e Kigurumis \"Premades\" conosco, porém não nos responsabilizamos por futuros ajustes necessários em tamanho ou caimento da mesma.",
                  "II - Caso acreditemos que o cliente possui intenções maliciosas ou controversas com nosso produto, retemos o direito de recusa ao serviço."
                ]
+             },
+             {
+               title: "1.3 - Direitos e Deveres do Studio",
+               content: "O Studio \"Dragon Shore\" Possui o direito de postar fotos, vídeos e ilustrações do produto criado para o cliente, para fins promocionais e apenas promocionais. Nossa diretiva é produzir algo que agrade o cliente e possua qualidade e resistência, te entregando o que você merece!"
+             },
+             {
+               title: "1.4 - Direitos e Deveres do Cliente",
+               subsections: [
+                 {
+                   title: "1.4.a) Direito de Desistência",
+                   content: "Caso o Cliente desista do seu pedido e o mesmo não iniciou suas etapas de produção e o material não foi adquirido, o cliente tem o direito de desistência e um reembolso total do valor-caução pago ao adquirir seu \"slot\".",
+                   list: [
+                     "I - Caso a produção tenha se iniciado, o valor a ser retornado ao cliente estará vinculado ao progresso da desistência e a quantidade financeira investida no produto até tal momento.",
+                     "II - Devido à natureza de Produto Personalizado especificamente ao cliente, o Artigo 49 do Código de Defesa do Consumidor (Conhecido como Lei do Direito do Arrependimento) não se encaixa para fins de arrependimento. Esta cláusula é uma cortesia do estúdio para o cliente."
+                   ]
+                 },
+                 {
+                   title: "1.4.b) Atualização sobre o produto",
+                   content: "O Cliente deverá ser atualizado a cada etapa pertinente do produto, não excedendo 30 dias da última atualização.",
+                   list: [
+                     "I - o Cliente NÃO DEVE insistir em atualizações diárias ou de forma frequente que atrapalhe a produção do produto, caracterizando desrespeito e podendo levar ao cancelamento do pedido.",
+                     "II - O Cliente tem direito a atualização caso haja algum imprevisto pela equipe de produção, e poderá exigir atualização caso o prazo exceda os 30 dias."
+                   ]
+                 },
+                 {
+                   title: "1.4.c) Alterações",
+                   content: "O Cliente tem o direito de solicitar alterações MENORES em detalhes do produto livre de cobrança extra, Caracterizam-se alterações menores como: Posicionamento de detalhes já acordados e outros pormenores. Caso o cliente queira alterações MAIORES por arrependimento ou mudança de planos, o valor em material e em hora/trabalho será cobrado extra.",
+                   list: [
+                     "I - O Cliente pode, por conta própria, alterar seu produto após ele ser entregue e finalizado.",
+                     "II - O Cliente não deve alterar adicionando coisas que se caracterizariam problemáticas como símbolos de intolerância, racismo, homofobia.",
+                     "III - Caso o cliente cause dano a seu produto, ele poderá entrar em contato conosco para solicitar reparo com custo extra, porém não faremos reparos em partes que não produzimos."
+                   ]
+                 },
+                 {
+                   title: "1.4.d) Envio",
+                   content: "O custeio do frete e envio do produto personalizado ficará inteiramente sob responsabilidade do cliente e a embalagem e material de envio fica como responsabilidade do Estúdio.",
+                   list: [
+                     "I - Caso aconteça avaria do produto durante o envio, o estúdio não se responsabilizará se esta avaria foi causada pelo método de envio escolhido do cliente.",
+                     "II - Não nos responsabilizamos por extravio de produto causado pelo método de envio do cliente",
+                     "III - Prazo de entrega e tentativas de entrega são responsabilidades do cliente para com o método de envio escolhido do cliente."
+                   ]
+                 },
+                 {
+                   title: "1.4.e) Defeitos de Fabricação",
+                   content: "Caso o cliente encontre defeitos de fabricação que passou despercebido pelo nosso Q.A., o estúdio se responsabiliza pelo conserto de tal defeito de forma gratuita, assim como o envio e reenvio ao cliente caso seja pertinente. O Cliente tem 3 Dias corridos de recebimento para nos informar do defeito de fabricação.",
+                   list: [
+                     "I - Não nos responsabilizamos por defeitos causados pelo cliente, ou defeitos encontrados após os 3 Dias Corridos determinados acima"
+                   ]
+                 },
+                 {
+                   title: "1.4.f) Brindes",
+                   content: "Caso o cliente esteja aplicável para receber um brinde do estúdio, este brinde não é reembolsável ou trocável. O brinde é uma bonificação do estúdio ao cliente, e não faz parte do produto comprado."
+                 },
+                 {
+                   title: "1.4.g) Créditos",
+                   content: "O Estúdio deve ser creditado na produção do seu produto, mesmo que o mesmo for utilizado para fins pessoais, recreativos ou lucrativos, o estúdio deve ser creditado na produção do mesmo sempre que possível:",
+                   list: [
+                     "I - Um exemplo seria nos marcar nas redes sociais pela produção e realização do seu produto, seja deixando descrito no post feito ou na biografia.",
+                     "II - Outro exemplo seria verbalmente confirmar nossa autoria e prestação de serviço em relação ao seu produto.",
+                     "III - Mesmo que o Cliente altere o produto de forma que ele não esteja mais reconhecível como um produto nosso, ele ainda deve nos creditar como produtores da base de seu produto."
+                   ]
+                 }
+               ]
+             },
+             {
+               title: "1.5 - Medidas para a Produção",
+               content: "Iremos seguir EXATAMENTE as medidas que o cliente nos enviar. Nós iremos instruir corretamente como tirar essas medidas e nós iremos nos certificar que tudo seja produzido e documentado na produção que foi feito corretamente. Não nos responsabilizamos por medidas passadas erradas."
              }
            ]
          },
@@ -187,9 +323,11 @@ export default function FursuitTerms() {
                ],
                paymentMethodsTitle: "Formas de pagamento aceitas:",
                paymentMethods: [
-                 "PIX",
-                 "Transferência Bancária",
-                 "PayPal (Taxa de conversão por conta do cliente)"
+                 "- Cartão de Crédito ou Débito (Parcelamento em até 12x, juros por conta do cliente)",
+                 "- PIX",
+                 "- Transferência Bancária",
+                 "- PayPal (Taxa de conversão por conta do cliente)",
+                 "- Wise (Taxa de conversão por conta do cliente)"
                ]
              }
            ]
@@ -252,7 +390,7 @@ export default function FursuitTerms() {
         body {
           font-family: var(--font-quadrat-serial), 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
           line-height: 1.6;
-          color: #333;
+          color: #000;
           background: linear-gradient(135deg, #1a237e 0%, #3949ab 50%, #5c6bc0 100%);
           min-height: 100vh;
           padding: 20px;
@@ -367,6 +505,7 @@ export default function FursuitTerms() {
           background: white;
           border-radius: 8px;
           box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+          color: #000;
         }
 
         .definition-term {
@@ -388,22 +527,24 @@ export default function FursuitTerms() {
         .toc h3 {
           font-family: var(--font-pina-colada), serif;
           margin-bottom: 15px;
-          color: #333;
+          color: #000;
           font-size: 1.4rem;
         }
 
         .toc ul {
+          color: #000;
           list-style: none;
         }
 
         .toc li {
           padding: 8px 0;
+          color: #000;
           border-bottom: 1px solid rgba(255,255,255,0.3);
         }
 
         .toc a {
           text-decoration: none;
-          color: #333;
+          color: #000;
           font-weight: 500;
           transition: color 0.3s ease;
         }
@@ -419,6 +560,7 @@ export default function FursuitTerms() {
           border-radius: 15px;
           box-shadow: 0 5px 15px rgba(0,0,0,0.08);
           border-left: 5px solid #1565c0;
+          color: #000;
         }
 
         .section h2 {
@@ -663,69 +805,21 @@ export default function FursuitTerms() {
                     ))}
                   </ul>
                 )}
+                {subsection.subsections && subsection.subsections.map((subSubsection, subIndex) => (
+                  <div key={subIndex}>
+                    <h4>{subSubsection.title}</h4>
+                    <p>{subSubsection.content}</p>
+                    {subSubsection.list && (
+                      <ul>
+                        {subSubsection.list.map((item, itemIndex) => (
+                          <li key={itemIndex}><strong>{item}</strong></li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                ))}
               </div>
             ))}
-
-            <div className="subsection">
-              <h3>1.3 - Direitos e Deveres do Studio</h3>
-              <p>O Studio "Dragon Shore" Possui o direito de postar fotos, vídeos e ilustrações do produto criado para o cliente, para fins promocionais e apenas promocionais. Nossa diretiva é produzir algo que agrade o cliente e possua qualidade e resistência, te entregando o que você merece!</p>
-            </div>
-
-            <div className="subsection">
-              <h3>1.4 - Direitos e Deveres do Cliente</h3>
-              
-              <h4>1.4.a) Direito de Desistência</h4>
-              <p>Caso o Cliente desista do seu pedido e o mesmo não iniciou suas etapas de produção e o material não foi adquirido, o cliente tem o direito de desistência e um reembolso total do valor-caução pago ao adquirir seu "slot".</p>
-              <ul>
-                <li><strong>I</strong> - Caso a produção tenha se iniciado, o valor a ser retornado ao cliente estará vinculado ao progresso da desistência e a quantidade financeira investida no produto até tal momento.</li>
-                <li><strong>II</strong> - Devido à natureza de Produto Personalizado especificamente ao cliente, o Artigo 49 do Código de Defesa do Consumidor (Conhecido como Lei do Direito do Arrependimento) não se encaixa para fins de arrependimento. Esta cláusula é uma cortesia do estúdio para o cliente.</li>
-              </ul>
-
-              <h4>1.4.b) Atualização sobre o produto</h4>
-              <p>O Cliente deverá ser atualizado a cada etapa pertinente do produto, não excedendo 30 dias da última atualização.</p>
-              <ul>
-                <li><strong>I</strong> - o Cliente NÃO DEVE insistir em atualizações diárias ou de forma frequente que atrapalhe a produção do produto, caracterizando desrespeito e podendo levar ao cancelamento do pedido.</li>
-                <li><strong>II</strong> - O Cliente tem direito a atualização caso haja algum imprevisto pela equipe de produção, e poderá exigir atualização caso o prazo exceda os 30 dias.</li>
-              </ul>
-
-              <h4>1.4.c) Alterações</h4>
-              <p>O Cliente tem o direito de solicitar alterações MENORES em detalhes do produto livre de cobrança extra, Caracterizam-se alterações menores como: Posicionamento de detalhes já acordados e outros pormenores. Caso o cliente queira alterações MAIORES por arrependimento ou mudança de planos, o valor em material e em hora/trabalho será cobrado extra.</p>
-              <ul>
-                <li><strong>I</strong> - O Cliente pode, por conta própria, alterar seu produto após ele ser entregue e finalizado.</li>
-                <li><strong>II</strong> - O Cliente não deve alterar adicionando coisas que se caracterizariam problemáticas como símbolos de intolerância, racismo, homofobia.</li>
-                <li><strong>III</strong> - Caso o cliente cause dano a seu produto, ele poderá entrar em contato conosco para solicitar reparo com custo extra, porém não faremos reparos em partes que não produzimos.</li>
-              </ul>
-
-              <h4>1.4.d) Envio</h4>
-              <p>O custeio do frete e envio do produto personalizado ficará inteiramente sob responsabilidade do cliente e a embalagem e material de envio fica como responsabilidade do Estúdio.</p>
-              <ul>
-                <li><strong>I</strong> - Caso aconteça avaria do produto durante o envio, o estúdio não se responsabilizará se esta avaria foi causada pelo método de envio escolhido do cliente.</li>
-                <li><strong>II</strong> - Não nos responsabilizamos por extravio de produto causado pelo método de envio do cliente</li>
-                <li><strong>III</strong> - Prazo de entrega e tentativas de entrega são responsabilidades do cliente para com o método de envio escolhido do cliente.</li>
-              </ul>
-
-              <h4>1.4.e) Defeitos de Fabricação</h4>
-              <p>Caso o cliente encontre defeitos de fabricação que passou despercebido pelo nosso Q.A., o estúdio se responsabiliza pelo conserto de tal defeito de forma gratuita, assim como o envio e reenvio ao cliente caso seja pertinente. O Cliente tem 3 Dias corridos de recebimento para nos informar do defeito de fabricação.</p>
-              <ul>
-                <li><strong>I</strong> - Não nos responsabilizamos por defeitos causados pelo cliente, ou defeitos encontrados após os 3 Dias Corridos determinados acima</li>
-              </ul>
-
-              <h4>1.4.f) Brindes</h4>
-              <p>Caso o cliente esteja aplicável para receber um brinde do estúdio, este brinde não é reembolsável ou trocável. O brinde é uma bonificação do estúdio ao cliente, e não faz parte do produto comprado.</p>
-
-              <h4>1.4.g) Créditos</h4>
-              <p>O Estúdio deve ser creditado na produção do seu produto, mesmo que o mesmo for utilizado para fins pessoais, recreativos ou lucrativos, o estúdio deve ser creditado na produção do mesmo sempre que possível:</p>
-              <ul>
-                <li><strong>I</strong> - Um exemplo seria nos marcar nas redes sociais pela produção e realização do seu produto, seja deixando descrito no post feito ou na biografia.</li>
-                <li><strong>II</strong> - Outro exemplo seria verbalmente confirmar nossa autoria e prestação de serviço em relação ao seu produto.</li>
-                <li><strong>III</strong> - Mesmo que o Cliente altere o produto de forma que ele não esteja mais reconhecível como um produto nosso, ele ainda deve nos creditar como produtores da base de seu produto.</li>
-              </ul>
-            </div>
-
-            <div className="subsection">
-              <h3>1.5 - Medidas para a Produção</h3>
-              <p>Iremos seguir EXATAMENTE as medidas que o cliente nos enviar. Nós iremos instruir corretamente como tirar essas medidas e nós iremos nos certificar que tudo seja produzido e documentado na produção que foi feito corretamente. Não nos responsabilizamos por medidas passadas erradas.</p>
-            </div>
           </div>
 
           <div className="section" id="secao2">
